@@ -1,0 +1,4 @@
+1. Ejecuta la base de datos SCRIPT_COMERCIAL_CLIENTE_mysql_2024_para actividad 4.sql
+2. En IDE Eclipse abre el proyecto: File -> Open Projects from File System -> Directory -> buscar el proyecto en tu equipo -> Finish
+3. Ejecuta en la carpeta de pedidos el .java (contiene @SpringBootApplication)
+4. introduce en la barra de direcciones del navegador http://localhost:8085 y comprueba las operaciones que puedes realizar
